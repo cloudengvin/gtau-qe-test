@@ -12,4 +12,3 @@ def sorting(filename):
         outfile.writelines(i)
         outfile.writelines("\n")
     outfile.close()
-sorting('../input.txt')
